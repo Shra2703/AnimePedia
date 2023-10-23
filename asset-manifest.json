@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnimePedia/static/css/main.74eb9939.css",
+    "main.js": "/AnimePedia/static/js/main.8f71b79b.js",
+    "index.html": "/AnimePedia/index.html",
+    "main.74eb9939.css.map": "/AnimePedia/static/css/main.74eb9939.css.map",
+    "main.8f71b79b.js.map": "/AnimePedia/static/js/main.8f71b79b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74eb9939.css",
+    "static/js/main.8f71b79b.js"
+  ]
+}
