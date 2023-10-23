@@ -1,6 +1,8 @@
 # AnimePedia Mini-Project in ReactJs
-### This is the anime-pedia mini project that I did on DAY_15 in my 100DaysOfCode. This project I made using props.
 *This is the animepedia project in which you can find your favorite anime series with their characters' information and the series information.*
+
+## 🔗Link: https://shra2703.github.io/AnimePedia/
+<br />
 
 ### 📌 Preview of the project:
 https://github.com/Shra2703/React-JS-learning/assets/113618935/5f26fc8e-cb9a-491a-a5a4-4fedaa8bc35b
